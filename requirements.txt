@@ -1,0 +1,7 @@
+Requirements to build a model:
+importing all the necessary libraries:
+1.pandas
+2.numpy
+3.seaborn
+4.matplotlib
+5.scikit-learn
